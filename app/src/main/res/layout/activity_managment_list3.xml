@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.biddutkarmakar.kaptaifishinfo.FishFirstList1">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" পাহাড়ী ঘোনায় নার্সারী স্থাপন ও ব্যবস্থাপনা: "
+            android:textSize="18sp"
+            android:layout_marginTop="25dp"
+            android:gravity="center"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="পপোনা অবমুক্তি চেয়ে হ্রদের বিভিন্ন ঘোনায়/ক্রীকে নার্সারী স্থাপন করে কম সময়ে কম খরচে বেশী পোনা উৎপাদন করা যায় এবং অবমুক্তিজনিত মৃত্যু হার অনেক কম হয়। উৎপন্ন পোনা বর্ষার পানিতে/পাহাড়ী ঢলে প্লাবিত হয়ে স্বাভাবিকভাবে হ্রদে ছড়িয়ে পড়বে।ইনস্টিটিউটের রাঙ্গামাটিস্থ নদী উপকেন্দ্রকাপ্তাই হ্রদের পাহাড়ী ঘোনায় নার্সারী স্থাপন ও ব্যবস্থাপনা কৌশল উদ্ভাবন করেছে। ফলে পাহাড়ী এলাকায় কার্পজাতীয় মাছের রেণু পোনাথেকে ৬০ দিনে গুণগতমানসম্পন্ন আঙ্গুলী পোনার প্রাপ্যতা নিশ্চিত হবে। ইনস্টিটিউটের উদ্ভাবিত এই প্রযুক্তি মৎস্য অধিদপ্তর কর্তৃক ব্যাপক সম্প্রসারন কার্যকম পরিচালনার ফলে পাহাড়ী এলাকায় রুইজাতীয় মাছের নার্সারী ব্যবস্থাপনরা নতুন সম্ভবানার দ্বার উম্মোচন করেছে ।\n\n\n "
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#263238"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

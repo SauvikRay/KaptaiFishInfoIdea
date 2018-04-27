@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="com.example.biddutkarmakar.kaptaifishinfo.FishFirstList1">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" মৎস্য প্রজননক্ষেত্র সংরক্ষণ ও ব্যবস্থাপনা : "
+        android:textSize="18sp"
+        android:layout_marginTop="25dp"
+        android:gravity="center"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="প্রজনন ক্ষেত্র ও প্রজনন অভিপ্রয়ণ পথগুলোতে পলি ভরাট হয়েছে এবং কোথাও কোথাও প্রজনন ক্ষেত্র  স্থানান্তরিত হয়েছে। হ্রদে রুই জাতীয়  মাছের মজুদ বৃদ্ধিও  সংরক্ষণ করার জন্য প্রাকৃতিক প্রজনন ক্ষেত্রগুলো যেমন-কাসালং চ্যানেলে মাইনিমুখ এবং তদুর্ধ্ব এলাকা;কর্ণফুলী চ্যানেলে জগন্নাথছড়ি এবং তদুর্ধ্ব এলাকা; চেংগী চ্যানেলে নানিয়ারচর এবং তদুর্ধ্ব এলাকা এবং রীংকং চ্যানেলে বিলাইছড়ি এবং তদুর্ধ্ব এলাকা পুনঃখননের মাধ্যমে ও সংরক্ষণের পাশাপাশি প্রজনন এলাকাগুলো অভয়াশ্রম ঘোষণা করে যথাযথ ব্যবস্থাপনার আওতায় আনতে হবে । \n\n\n"
+        android:textSize="15sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#263238"/>
+
+
+</LinearLayout>
+
+</ScrollView>

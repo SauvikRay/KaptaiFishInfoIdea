@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">"
+
+
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TableRow
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:id="@+id/text1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="হ্রদ সৃষ্টিরসময়কাল : ১৯৬১ইং  "
+                        android:textSize="20dp"
+
+                        android:textAlignment="center"
+
+                        android:background="#44b365"/>
+                    <TextView
+                        android:id="@+id/text2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="20dp"
+                        android:text="পানিরবার্ষিক গড় আয়তন : ৫২৪.৭০০ হে,ঘমি "
+                        android:textSize="20dp"
+
+                        android:textAlignment="center"
+
+                        android:background="#44b365"/>
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:id="@+id/text3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="ভৌগলিকঅবস্থান\nঅক্ষাংশঃ ২২০ ২র্০.-২র্৩ উত্তর\n দ্রাঘিমাংশঃ ৯০০ ০র্২-৯২০ ২র্৬ পূর্ব"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#0a0909"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:id="@+id/text4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="স্বাভাবিকজলায়তন : ৫৮,৩০০ হেক্টর\nসর্বনিম্ন জলায়তনঃ    ৪৮,৩০০ হেক্টর\nসর্বোচ্চজলায়তনঃ ৬৮,৮০০ হেক্টর"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#0a0909"
+                        android:background="#ffff"/>
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:id="@+id/text5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="পানি পৃষ্ঠেরসর্বোচ্চউচ্চতাঃ৩১.১ মিটার\n সর্বনিম্ন : ২১.৯৪ মিটার\nবাঁধেরপানিনির্গমনপথেরগভীরতাঃ ১৫.৫ মিটার    "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#0a0909"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:id="@+id/text6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="সর্বোচ্চগভীরতা : ৩৬ মিটার\n  গড় গভীরতা : ৯ মিটার \n            মৌসুম ভেদে গভীরতারতারতম্য ঃ ৮.১৪ মিটার"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#0a0909"
+                        android:background="#ffff"/>
+
+                </TableRow>
+                <TableRow>
+
+                    <TextView
+                        android:id="@+id/text7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="  দৈর্ঘ্য : ৭৮ কিঃমিঃ    \n\nসূত্র : (ARG 1986)"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#0a0909"
+                        android:background="#ffff"/>
+                </TableRow>
+
+            </TableLayout>
+        </HorizontalScrollView>
+    </ScrollView>
+</LinearLayout>
+
+

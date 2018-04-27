@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.biddutkarmakar.kaptaifishinfo.FishFirstList1">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" বিকল্পমৎস্য চাষ প্রদ্ধতি উদ্ভাবন সর্ম্পকীয় গবেষণা ও এর ব্যবস্থাপনা: "
+            android:textSize="18sp"
+            android:layout_marginTop="25dp"
+            android:gravity="center"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="হ্রদের বর্তমান মৎস্য উৎপাদন মূলতঃ গতানুগতিক আহরণভিত্তিক ব্যবস্থাপনা নির্ভর, চাষ নয়। বর্তমান মৎস্য উৎপাদন আরো বৃদ্ধির নিমিত্ত  বাংলাদেশ মৎস্য গবেষণা  ইনস্টিটিউট বিকল্প মৎস্য চাষ পদ্ধতি উদ্ভাবন সম্পর্কীয় গবেষণা কার্যক্রম পরিচালনা করে আসছে।কাপ্তাই লেকে মৎস্য উৎপাদন বৃদ্ধি, সংরক্ষণ ও ব্যবস্থাপনা জোরদারকরণ (কম্পোনেন্ট-সি, বিএফআরআই অংশ) উন্নয়ন প্রকল্পের অর্থায়নে পরিচালিত খাঁচায় মনোসেক্স তেলাপিয়া, থাই সরপুঁটি ও থাই কৈ চাষের উপযুক্ততা যাচাই এর মাধ্যমে হ্রদ বন্ধকালীন সময়ে জেলেদের বিকল্প কর্মসংস্থানের সুযোগ সৃষ্টি হবে। কাপ্তাই লেকে খাঁচায় মাছ চাষ প্রযুক্তি মৎস্যচাষি ও উদ্যোক্ততাদের মাঝে পৌছে দেয়ার জন্য সম্প্রসারন কার্যক্রম অব্যাহত রাখতে হবে । \n\n\n"
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#263238"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

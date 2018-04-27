@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.biddutkarmakar.kaptaifishinfo.FishFirstList1">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="হ্যাচারী/নার্সারী সংখ্যার সাধারণ  তথ্যাদি  : "
+            android:textSize="19sp"
+            android:layout_marginTop="26dp"
+            android:gravity="center"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="১.  সরকারী হ্যাচারী (মিনি) - ০১ টি (২.৭৮ হেঃ) \n\n২.  বেসরকারী হ্যাচারী - নাই \n\n৩.  বেসরকারী নার্সারী - ৬৫ টি (২৩.৯৭ হেঃ)\n\n\n\n"
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#263238"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

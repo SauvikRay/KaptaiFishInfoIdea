@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.biddutkarmakar.kaptaifishinfo.FishFirstList1">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" মৎস্য প্রজননক্ষেত্র সংরক্ষণ ও ব্যবস্থাপনা : "
+            android:textSize="18sp"
+            android:layout_marginTop="25dp"
+            android:gravity="center"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="হ্রদের জীব-বৈচিত্র্য রক্ষার জন্য হ্রদের পাঁচটি গুরুত্বপূর্ণ অংশকে অভয়াশ্রম হিসেবে ঘোষণা করা হয়েছে। রাঙ্গামাটি ডিসি বাংলো সংলগ্ন হ্রদ এলাকা, বিএফডিসি রাঙ্গামাটি সদর অফিস সংলগ্ন হ্রদ এলাকা,লংগদু উপজেলা কমপ্লেক্স  হ্রদ এলাকা, ছয়কুড়ি বিল, নানিয়ারচর  হ্রদ এলাকা, রাঙ্গামাটি রাজবন বিহার হ্রদ এলাকা, কাপ্তাই উপজেলার নৌবাহিনী ক্যাম্পসংলগ্ন হ্রদ এলাকা এবং বিলাইছড়ি রীংকং চ্যানেল সংলগ্ন হ্রদ এলাকা।মৎস্য উন্নয়ন কর্পোরেশন বাংলদেশ মৎস্য গবেষণা ইনস্টিটিউটের  পরামর্শ মোতাবেক উক্ত স্থান গুলোতে অভয়াশ্রম প্রতিষ্ঠা করে মৎস্য প্রজাতিরসমূহের নির্বিঘœ প্রাকৃতিক প্রজনন নিশ্চিত করার মাধ্যমে জীব-বৈচিত্র্য সংরক্ষণের প্রচেষ্টা অব্যহত রেখেছে । "
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#263238"/>
+
+        <TextView
+            android:id="@+id/text3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="প্রসঙ্গতঃ উল্লেখ্য কাপ্তাই হ্রদে রুই জাতীয় মাছের প্রধান প্রাকৃতিক প্রজনন ক্ষেত্র রয়েছে চারটি। এছাড়া, ঝর্ণা ও ছড়ার মুখে রুই জাতীয় ছোট মাছের (গধলড়ৎ ঈধৎঢ়ং) প্রজনন হয়ে থাকে । এধরণের প্রজনন ক্ষেত্র রয়েছে আরো প্রায় ৩৪৬টি। হ্রদের জলায়তন  প্রায় ৭০০ বর্গ কিঃ মিঃ। এর বিপরীতে সংখ্যা ও আয়তন উভয় বিবেচনাই অভয়াশ্রম অপ্রতুল। অভয়াশ্রমের সংখ্যা ও আয়তন বৃদ্ধির পাশাপাশি সারাবছর পানি থাকে এমন স্থানে অভয়াশ্রম ঘোষণা ও যথাযথ ব্যবস্থাপনা প্রয়োজন ।\n\n\n "
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#263238"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

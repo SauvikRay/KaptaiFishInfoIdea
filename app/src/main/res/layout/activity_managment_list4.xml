@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="com.example.biddutkarmakar.kaptaifishinfo.FishFirstList1">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" নির্ধারিত আকারের বড় পোনা মজুদ ও ব্যবস্থাপনা : "
+        android:textSize="18sp"
+        android:layout_marginTop="25dp"
+        android:gravity="center"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="সহনশীল মৎস্য আহরণ অব্যহত রাখার নিমিত্ত প্রতি বছর হ্রদ থেকে যে পরিমাণ মাছ ধরা হয়ে থাকে তা পুরণের লক্ষ্যে প্রতি মৌসুমে বাণিজ্যিক গুরুত্বসম্পন্ন প্রজাতি সমূহের বিশেষ করে রুই জাতীয় মাছের ছোট-বড় বিভিন্ন সাইজের পোনা মজুদ করা হয়। পোনা মজুদ কর্মসূচী কার্যকর করার লক্ষ্যে বাংলদেশ মৎস্য গবেষণা ইনস্টিটিউট এর সুপারিশ মোতাবেক কমপক্ষে ২৫% পোনা প্রাকৃতিক প্রজননের (হালদা বা যমুনা নদীর) পোনা হতে হবে,বিএফডিসির নিজস্ব পোনা উৎপাদন কার্যক্রম পুনরায় চালু করতে হবে এবং  হ্রদের পরিবেশেরসাথে খাপ খাওয়াাতে পারে এমন  সুস্থ, সবল ও নির্ধারিত আকারে বড় পোনা (১০-১৮ সেমি.) মজুদ করতে হবে । \n\n\n"
+        android:textSize="15sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="15dp"
+        android:textColor="#263238"/>
+
+
+</LinearLayout>
+
+</ScrollView>

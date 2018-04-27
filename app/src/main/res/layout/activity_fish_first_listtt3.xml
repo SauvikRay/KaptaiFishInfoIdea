@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" মৎস্য প্রজাতি সমুহের গ্রুপভিত্তিক পরিবর্তনের ক্রমধারা : "
+            android:textSize="19sp"
+            android:layout_marginTop="22dp"
+            android:layout_marginLeft="1dp"
+            android:gravity="center"
+            android:textColor="#000"/>
+
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="বিগত ৪ দশকের  হ্রদের মৎস্য আহরণের বৃদ্ধি নিঃসন্দেহে উৎসাহব্যঞ্জক। তবে আশংকাজনক দিক হচ্ছে মূূল্যবান রুই জাতীয় মাছের ক্রমবনতি। ১৯৬৫-৬৬ সালে রুই, কাতল, মৃগেল ও কালিবাউস সহ সামগ্রিক ভাবে মেজর কার্প ছিল মোট মৎস্য অবতরণের প্রায় ৮১.৩৫%; যা ক্রমশঃ হ্রাস পেয়ে ২০১৪-১৫ সালে ৪% এর নীচে নেমে আসছে। অন্যদিকে ছোট মাছ বিশেষ করে চাপিলা, কেচকী, মলা ইত্যাদির পরিমাণ ৩% (১৯৬৫-৬৬ ) থেকে বেড়ে ২০১৫-২০১৬ সালে প্রায় ৯৫% এর কাছাকাছি পৌঁছেছে।"
+            android:textSize="15sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#263238"/>
+
+        <TextView
+            android:id="@+id/tex3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="রাক্ষুসে প্রজাতির মাছের সামগ্রিকভাবে ব্যাপক কোন পরিবর্তন না  হলেও এদের মধ্যে কতিপয় মূল্যবান প্রজাতির বড় আকারের  মাছ যেমনঃ চিতল, বোয়াল, আইড়, গজার  ইত্যাদি সস্প্রতি আগের মত বড় আকারের পাওয়া যায় না। রুই জাতীয় মাছের আশংকাজনক অধঃগতি  অবশ্যই ভাবার বিষয়। কাপ্তই হ্রদের অনুরূপ পৃথিবীর অনেক জলাশয়েই মাছের প্রজাতির  বিন্যাস পরিবর্তনের নজির রয়েছে। তবে ছোট মাছের অস্বাভাবিক বৃদ্ধি ও রুই জাতীয় মাছের আশংকাজনক হ্রাস পাওয়ার বিষয়টি বিশেষভাবে বিবেচ্য। জলবায়ু পরিবর্তনের ফলে কম বৃষ্টিপাত, নদীগুলোর নাব্যতা, হ্রদের পানির গভীরতা কমে যাওয়া এবং প্রধান চারটি প্রজননস্থল (কাসালং চ্যানেল, মাইনিমুখ; বরকল চ্যানেল, জগন্নাথছড়ি; চেংগী চ্যানেল, নানিয়ারচর; রীংকং চ্যানেল, বিলাইছড়ি) নষ্ট হয়ে যাওয়া, নিষিদ্ধ জাল ব্যবহার, প্রজনন মৌসুমে পোনা মাছ ও মা মাছ নিধন, শুষ্ক মৌসুমে অধিক মাছ আহরণ ইত্যাদি কারনে  হ্রদের জীব-বৈচিত্র্য হ্রাস পাচ্ছে।"
+            android:textSize="15sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#263238"/>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">"
+
+
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TableRow
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="ক্রমিক "
+                        android:textSize="20dp"
+
+                        android:textAlignment="center"
+
+                        android:background="#44b365"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="20dp"
+                        android:text="ঔষধের নাম    "
+                        android:textSize="20dp"
+
+                        android:textAlignment="center"
+
+                        android:background="#44b365"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="20dp"
+                        android:text="প্রকার         "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#44b365"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="20dp"
+                        android:text="কোন রোগের জন্য উপকারী"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:background="#44b365"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="20dp"
+                        android:text="নিরাপদ ব্যাবহারের প্রয়োগমাত্রা \nও সময়"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#44b365"/>
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="১  "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="এ্যাক্রিফ্ল্যাভিন"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="জৈবিক রঙ এর \nউপকরন"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="মাছের ডিমের \nব্যাকটেরিয়া নাশক"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="১ঃ২০০০ অথবা\n ৫০০ পিপি এম\n হারে ২০ মিনিটের জন্য"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+
+                        android:layout_marginLeft="1dp"
+                        android:text="২ "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+
+                        android:layout_marginLeft="1dp"
+                        android:text="তুতে(কপারসালফেট) "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+
+                        android:layout_marginLeft="1dp"
+                        android:text="অজৈব যৌগপদার্থ   "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+
+                        android:layout_marginLeft="1dp"
+                        android:text="ব্যাকটেরিয়া এবং\n পরজীবি নাশক"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="1dp"
+                        android:text="পানিতে মিশ্রিত দ্রবনের\n উপরনির্ভর করে ১-৪ পিপিএম\n হারে ১ ঘন্টার জন্য "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+
+
+
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="৩ "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#de9f93"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="ক্রিষ্টাল ভায়োলেট "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#de9f93"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="জৈবিক রং এর উপকরণ"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#de9f93"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="ছত্রাক নাশক   "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#de9f93"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="৫ পিপিএম হারে ১ ঘন্টার জন্য "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#de9f93"
+                        android:background="#ffff"/>
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"></TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="৪ "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#0000"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="ডাইকুয়াট"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#0000"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="জৈব যৌগ পদার্থ   "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#0000"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="ফুলকায় ব্যাকটেরিয়া রোগ \nসৃষ্টিকারী শৈবাল নাশক "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#0000"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="    ৮.৮-১৬.৮ পিপিএম\n হারে ১ ঘন্টার জন্য "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#0000"/>
+
+
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="৫"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#0ff"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="ফরমালিন (পানি তে \n৩৭-৪০% ফরমালডি \nহাইড গ্যাসের জন্য"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#0ff"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="পানিতে জৈব গ্যাস"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#0ff"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="এককোষী পরজীবি নাশক,\n সাধারণ পরজীবি এবং\n ছত্রাক নশক"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#0ff"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="১ ঃ ৪,৫০,০০০ অথবা \n২৫০ পিপিএম হারে \n১ ঘন্টার জন্যা"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#0ff"
+                        android:background="#ffff"/>
+
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="৬"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="ডিপটারেক্স (ডাইলক্স,\n নেগুবন, টেগুভন, মেসোটেন)"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="জৈব ফসফেট    "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="আরগুলাস ও উকুন নাশক  "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="১ ঃ ৪০০০ অথবা ২৫০ পিপিএম,\n ১ ঘন্টার জন্য"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="৭"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="পুরিনা জীবানু নাশক\n ( ৮ গুণ শক্তিশালী)"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="কোয়ার্টার যৌগ    "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="সাধারণ ব্যাকটেরিয়া নাশক"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="১ ঃ ৪,৫০,০০০ অথবা\n ২.২২পিপিএম হারে \n১ ঘন্টার জন্য"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+
+
+                </TableRow>
+                <TableRow>
+
+                </TableRow>
+            </TableLayout>
+        </HorizontalScrollView>
+    </ScrollView>
+
+</LinearLayout>
+
+

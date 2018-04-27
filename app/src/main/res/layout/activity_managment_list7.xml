@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.biddutkarmakar.kaptaifishinfo.FishFirstList1">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" গবেষণা কার্যক্রম  জোরদারকরণ  : "
+            android:textSize="18sp"
+            android:layout_marginTop="25dp"
+            android:gravity="center"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="বাংলাদেশ মৎস্য গবেষণা ইনস্টিটিউট এর নদী উপকেন্দ্র স্থাপনের পর থেকেই প্রকৃত অর্থে হ্রদের মৎস্য সম্পদ বৃদ্ধিকল্পে প্রায়োগিক গবেষণা শুরু হয়েছে। ইতোমধ্যে গবেষণা ভিত্তিক গুরুত্বপূর্ণ ফলাফল, প্রযুক্তি উদ্ভাবন ও সহায়ক তথ্যাদি সংগ্রহে অনেকাংশেই সফলতা লাভ করেছে এবং এ হ্রদটির সম্ভবনাকে পুরোপুরি  কাজে লাগাতে কাপ্তাই লেকে মৎস্য উৎপাদন বৃদ্ধি, সংরক্ষণ ও ব্যবস্থাপনা জোরদারকরণ (কম্পোনেন্ট-সি, বিএফআরআই অংশ) উন্নয়ন প্রকল্পের অর্থায়নেঅত্যাধুনিক সুযোগ সুবিধা সম্বলিত অফিস কাম ল্যাবরেটরী নির্মাণ করা হয়েছে। ফলে হ্রদভিত্তিক প্রায়োগিক গবেষণা কার্যμম জোরদারকরণ সম্ভব হবে । "
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#263238"/>
+
+        <TextView
+            android:id="@+id/text3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="কাপ্তাই হ্রদের মৎস্যসম্পদ এতদাঞ্চলের জন-মানুষের কৃষ্টি-সংস্কৃতি ও জীবন-জীবিকার মান উন্নয়নের পাশাপাশি জাতীয় অর্থনীতিতে গুরুত্বপূর্ণ অবদান রাখছে।এখানে বিদ্যমান মৎস্যসম্পদের মজুদ নিরুপনের পাশা-পাশি স্থায়িত্বশীল উৎপাদন ও আহরণ ব্যবস্থাপনা জরুরী। মৎস্য সম্পদের টেকসই উন্নয়নের জন্য মধ্যম ও কৃত্রিম উৎপাদনশীল এই জলাশয় থেকে বাড়তি আহরণ চাপ নিয়ন্ত্রন আবশ্যক। এই জন্য জেলেদের বিকল্প কর্মসংস্থান, দায়িত্বশীল মৎস্য আহরণ, মৎস্য প্রজননক্ষেত্র সমূহ পূর্নরুদ্ধার, সংরক্ষণ, বিপনন ও সস্প্রসারনমূলক পর্যাপ্ত সহায়ক কর্মসূচী ও প্রকল্প গ্র্রহণ করা প্রয়োজন। সরকার, দেশবাসী ও আন্তর্জাতিক মহল সবাইকে এ বিষয়ে উদ্যোগ নিতে হবে।সর্বোপরি আধুনিক ও বিজ্ঞানভিত্তিক ব্যবস্থাপনা এবং যথাযথ উন্নয়নের পরশে আরও সমৃদ্ধ হোক এই হ্রদের মৎস্য ভান্ডার। \n\n\n"
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#263238"/>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

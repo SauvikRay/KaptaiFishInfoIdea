@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.biddutkarmakar.kaptaifishinfo.FishFirstList2">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" মৎস্য জীব-বৈচিত্র্য ও প্রজাতি বিন্যাস : "
+            android:textSize="18sp"
+            android:layout_marginTop="26dp"
+            android:layout_marginLeft="11dp"
+            android:gravity="center"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="কাপ্তাই হ্রদ দেশীয় মৎস্য প্রজাতির এক বৈচিত্র্যময় ও সমৃদ্ধশীল জলভান্ডার। বাংলাদেশ মৎস্য গবেষণা ইনস্টিটিউটসহ অন্যান্য গবেষণার সর্বশেষ রেকর্ড মোতাবেক এ হ্রদে ২ প্রজাতির চিংড়ি, ২প্রজাতির কচ্ছপ ও মোট ৭৫ প্রজাতির মিঠা পানির মাছ রয়েছে। তন্মধ্যে ৬৭টি প্রজাতির মাছ হচ্ছে দেশীয়, আর বাকী ৮টি হচ্ছে বিদেশী ।\n\n\n"
+            android:textSize="14sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#263238"/>
+
+    </LinearLayout>
+
+</ScrollView>

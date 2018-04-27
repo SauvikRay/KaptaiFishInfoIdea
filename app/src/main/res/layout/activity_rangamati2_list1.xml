@@ -1,0 +1,470 @@
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">"
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TableRow
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="উপজেলারনাম   "
+                        android:textSize="20dp"
+
+                        android:textAlignment="center"
+
+                        android:background="#44b365"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="20dp"
+                        android:text="  পুকুরের সংখ্যা (টি)     "
+                        android:textSize="20dp"
+
+                        android:textAlignment="center"
+
+                        android:background="#44b365"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="20dp"
+                        android:text="পুকুরের আয়তন(হেঃ)"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#44b365"/>
+
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="সদর"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#131313"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="৪৮"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#131313"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="২৬ "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#131313"
+                        android:background="#ffff"/>
+
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="1dp"
+                        android:text="কাপ্তাই   "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#484bed"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_marginLeft="1dp"
+                        android:text="২৪৩      "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#484bed"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_marginLeft="1dp"
+                        android:text="১৫.৫২"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#484bed"
+                        android:background="#ffff"/>
+
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="বিলাইছড়ি  "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#de9f93"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="২৯ "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#de9f93"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="৫.৪০"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#de9f93"
+                        android:background="#ffff"/>
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"></TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="রাজস্থলী "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="৯৯   "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="১০.৬২"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:background="#ffff"
+                        />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="কাউখালী"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e2ce38"
+                        android:background="#ffff"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text=" ২০৭"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e2ce38"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="২২.৮১"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e2ce38"
+                        android:background="#ffff"/>
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="নানিয়ারচর"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#131313"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text=" ২৮"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#0d0c0c"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="৫.২"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#0a0909"
+                        android:background="#ffff"/>
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="জুড়াছড়ি  "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text=" ১০২"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="৭.৮৩"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+
+
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="বরকল "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#351e93"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="৬"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#351e93"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="০.৪০ "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#351e93"
+                        android:background="#ffff"/>
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="লংগদু    "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#a34821"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="১২ "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#a34821"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="৫.২০ "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#a34821"
+                        android:background="#ffff"/>
+
+
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="বাঘাইছড়ি"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e2ce38"
+                        android:background="#ffff"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="৪৬৯"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e2ce38"
+                        android:background="#ffff"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="২৩৪.৮৯"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e2ce38"
+                        android:background="#ffff"/>
+
+
+
+
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="মোট"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:background="#ffff"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text=" ১২৪৩    "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:background="#ffff"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="৩৩৩.৮৭"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:background="#ffff"
+                        />
+
+                </TableRow>
+            </TableLayout>
+        </HorizontalScrollView>
+    </ScrollView>
+</LinearLayout>
+

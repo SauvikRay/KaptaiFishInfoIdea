@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.biddutkarmakar.kaptaifishinfo.FishFirstList1">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="হ্রদের মৎস্য উৎপাদন বৃদ্ধির জন্য গৃহীত সুপারিশসমালার আলোকে :  "
+            android:textSize="19sp"
+            android:layout_marginTop="26dp"
+            android:gravity="center"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="বাংলাদেশ মৎস্য গবেষণা ইনস্টিটিউট, নদী উপকেন্দ্র, রাঙ্গামাটি  কর্তৃক বাস্তবায়িত গবেষণালব্ধ ফলাফল সংক্রান্ত তথ্যাদি \n"
+            android:textSize="16sp"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:layout_marginLeft="5dp"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/text3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="পাহাড়ী ঘোনায় কার্পের রেণু পোনা উৎপাদন সম্ভাবনা যাচাই সম্পর্কিত গবেষণা :"
+            android:textSize="16sp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/text4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="বাংলাদেশ মৎস্য গবেষণা ইনস্টিটিউট পাহাড়ী ঘোনায় মাছ চাষ সম্পর্কিত বিভিন্ন গবেষণা কার্যক্রম বাস্তবায়ন করে যাচ্ছে। যেহেতু পার্বত্য জেলায় মাছ চাষের জন্য ভাল মানের পোনা প্রাপ্যতার যথেষ্ট সঙ্কট রয়েছে। রাঙ্গামাটি জেলার কাউখালী উপজেলায় অবস্থিত সরকারী হ্যাচারীটি মৎস্য চাষীদের পোনা সংগ্রহের প্রধান উৎস। যার কারণে মৎস্য চাষীরা অন্য জেলা থেকে পোনা সংগ্রহ করে। এ কারণে চাষীদের পোনার মূল্য বেশী গুনতে হয় অন্যদিকে গুণগত মান সম্পন্ন পোনার অপ্রতুলতা দেখা যায়। অনেক সময় গুণগতমান সম্পন্ন পোনার অভাবে চাষীরা ভাল উৎপাদন পায় না। বাংলাদেশ মৎস্য গবেষণা ইনস্টিটিউট কাপ্তাই হ্রদে পাহাড়ী ঘোনায় কার্পের রেণু পোনা উৎপাদন সম্ভাবনা যাচাই এর উপর একটি প্রযুক্তি তৈরী করেছে। এ পদ্ধতিতে পাহাড়ী ঘোনায় পাঁচ দিন বয়সের মেজর কার্পের রেণু পোনা মজুদ ও প্রতিপালন করে ৬০ দিনে আঙ্গুলী পোনা প্রাপ্যতা ও সরবরাহ নিশ্চিত হয়। এ প্রযুক্তিতে মাছের অধিক উৎপাদন নিশ্চিত সহ কাপ্তাই হ্রদে সমন্বিত মৎস্য চাষ ব্যবস্থাপনার টেকসই উন্নয়ন সম্ভব হবে ।\n "
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#263238"/>
+
+        <TextView
+            android:id="@+id/text5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="জাঁক দিয়ে মৎস্য শিকারের প্রভাব নিরুপণ সম্পর্কিত গবেষণা  :"
+            android:textSize="16sp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:textColor="#000"/>
+
+
+        <TextView
+            android:id="@+id/text6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="হ্রদের মোট আহরিত মাছের প্রায় ২৬% আসে জাঁক থেকে। জাঁকে আকার ও প্রজাতি নির্বিশেষে প্রায় সব ধরণের মাছ ধরা পড়ে। সাধারণতঃ শুষ্ক মৌসুমে জাঁক দিয়ে মাছ আহরণ করা হয়।  ফলে ডিমওয়ালাসহ অন্যান্য মাছ ব্যাপক হারে নিধন হয়ে থাকে। ২০১২-২০১৫ মেয়াদে জাঁক দিয়ে মৎস্য শিকারের প্রভাব নিরুপণ সম্পর্কীত গবেষণায় দেখা যায় জাঁকে প্রতি শতকে গড় উৎপাদন ১৪.২৫ কেজি  যা প্রাকৃতিকভাবে উৎপাদনের চেয়ে ২৮ থেকে ২৯ গুণ বেশী। প্রাপ্ত ফলাফল  বিম্লেষণে দেখা যায় জাঁকে ডিমওয়ালা ও পোনা মাছ দুই-ই নিধন হচ্ছে। ফলে জাঁক ব্যবহার করে মৎস্য আহরণ বন্ধ করা করতে হবে । \n "
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#263238"/>
+
+
+        <TextView
+            android:id="@+id/text7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="কাপ্তাই লেকে খাঁচায় মনোসেক্স তেলাপিয়া চাষ সম্পর্কিত গবেষণা  :"
+            android:textSize="16sp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/text8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="বিকল্প মৎস্য চাষ পদ্ধতির মাধ্যমে লেকের মৎস্য উৎপাদন বৃদ্ধির নিমিত্ত ভাসমান খাঁচায় মনোসেক্স তেলাপিয়া চাষের উপযুক্ততা যাচাই এর উপর গবেষণা পরিচালনা করা হয়েছে। কাপ্তাই লেকের মৎস্য উৎপাদন বৃদ্ধি এবং লেকের পানির অধিকতর সদ্ব্যব্যবহার নিশ্চিত করার জন্য কাপ্তাই লেকে খাঁচায় মনোসেক্স তেলাপিয়া মাছ চাষ একটি যুগোপযোগী প্রযুক্তি। এই প্রযুক্তি বাস্তবায়নের মাধ্যমে লেক বন্ধকালীন সময়ে জেলেদের বিকল্প কর্মসংস্থানের সুযোগ সৃষ্টি করা এবং লেকের বার্ষিক মৎস্য উৎপাদন কয়েক গুন বৃদ্ধি করা সম্ভব। বাংলাদেশ মৎস্য গবেষণা ইনস্টিটিউট, নদী উপকেন্দ্র, রাঙ্গামাটি  কর্তৃক পরিচালিত ভাসমান খাঁচায় ০৪ (চার) মাসে উৎপাদিত মনোসেক্স তেলাপিয়া মাছের আয়-ব্যয়ের হিসাব বিশ্লেষনে দেখা যায়, ১২ (বার) টি খাঁচার (প্রতিটি খাঁচার আকার ছিল ৩৩২ ঘনমিটার) উৎপাদন ব্যয় ২,৭৬১৯০ টাকা, মাছের বাঁচার হার ৯৬%, মোট উৎপাদিত মাছ ১০৮০০ টি ৯৬/১০০২৫০ গ্রাম/১০০০=২৫৯২ কেজি, মোট বিক্রয় ২৫৯২ কেজি  ১৪০ টাকা= ৩৬২৮৮০ টাকা, নীট  মুনাফা = বিক্রয় মূল্য - উৎপাদন খরচ = ৩৬২৮৮০ - ২,৭৬১৯০= ৮৬৬৯০ টাকা । \n "
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#263238"/>
+
+        <TextView
+            android:id="@+id/text9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="পাহাড়ী ঘোনায় কার্প জাতীয় মাছের মিশ্র চাষের মাধ্যমে উৎপাদন বৃদ্ধি সম্পর্কিত গবেষণা  : "
+            android:textSize="16sp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:textColor="#000"/>
+
+
+
+        <TextView
+            android:id="@+id/text10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="পাহাড়ি ঘোনায় মাছ চাষ প্রযুক্তির উন্নয়ন জন্য বিভিন্ন কার্যক্রম অব্যহত আছে যায় ফলে মাছের অধিক উৎপাদন নিশ্চিত করাসহ পার্বত্য জেলার অধিবাসীদের জীবন ও মানের উন্নয়ন ঘটানো সম্ভব হবে । \n\n\n\n "
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#263238"/>
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

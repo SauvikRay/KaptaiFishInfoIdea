@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.biddutkarmakar.kaptaifishinfo.FishFirstList1">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="wrap_content"
+            android:layout_height="320dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/udvaboknew"/>
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="এম এ বাশার জন্ম গ্রহণ করেন ১৯৮৩ সালের ২৫ ফেব্রুয়ারী রাজশাহী বাগমারা উপজেলায়। জনাব বাশার রাজশাহী বিশ্ববিদ্যালয় থেকে ২০০৬ সালে মৎস্য বিজ্ঞানে স্নাতক এবং ২০০৯ সালে মৎস্য চাষ বিষয়ে স্নাতকোতর ডিগ্রি লাভ করেন। তিনি ২০১০ সালের ০২ মে বৈজ্ঞানিক কর্মকর্তা পদে বাংলাদেশ মৎস্য গবেষণা ইনস্টিটিউটের বাগেরহাটেস্থ চিংড়ি গবেষণা কেন্দ্রে যোগদান করেন। উল্লেখ,২০১৩ সালে ২৯ এপ্রিল ইনস্টিটিউটের রাঙ্গামাটিস্থ নদী উপকেন্দ্র থেকে পরিচালিত কাপ্তাই লেকে মৎস্য উৎপাদন বৃদ্ধি,সংরক্ষণ ও ব্যবস্থাপনা জোরদারকরণ প্রকল্পের উপ প্রকল্প পরিচালকের দায়িত্ব পালন শেষে ২০১৬ সালে ৪ ফেব্রুয়ারী উক্ত উপকেন্দ্রের উপকেন্দ্র প্রধান হিসেবে দায়িত্ব পালন করছেন ।\n\n\n "
+            android:textSize="15sp"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#263238"/>
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="সার্বিক সহযোগিতায়: ড. ইয়াহিয়া মাদমুদ,মহাপরিচালক,বাংলাদেশ মৎস্য গবেষণা ইনস্টিটিউট ।
+কারিগরি সহযোগিতা:
+\n\n "
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#263238"/>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

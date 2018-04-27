@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="com.example.biddutkarmakar.kaptaifishinfo.FishFirstList1">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="হ্রদের বাণিজ্যিক গুরুত্বসম্পন্নমৎস্য প্রজাতি : "
+        android:textSize="18sp"
+        android:layout_marginTop="26dp"
+        android:gravity="center"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="দেশীয় প্রজাতির মাছগুলো মূলতঃ হ্রদ সৃষ্টির পূর্বে এতদাঞ্চলের জলাশয় ও নদী-নালাসমূহ থেকেই এসেছে এবং অধিকাংশই অভ্যন্তরীণ জলাশয়ের মৎস্যকূলের বৈশিষ্ট্য ও গুণাগুণ বহণ করে। হ্রদের মৎস্যকূলের প্রাথমিক প্রজাতি বিন্যাস বিগত চার দশকের ব্যবধানে অনেক পরিবর্তন হয়েছে। হ্রদ সৃষ্টির ফলে আগের খরস্রোত নদীগুলোর পানি প্রবাহমান বৈশিষ্ট্য থেকে অনেকাংশে স্থির পানির সৃষ্টির বৈশিষ্ট্যের  রূপান্তরিত হয়েছে। পানির এই বৈশিষ্ট্যগত পরিবর্তনের ফলে গোটা জলজ পরিবেশেরও পরিবর্তন হয়েছে। ফলশ্রুতিতে বিরাজমান মৎস্যকূলের প্রজাতি বিন্যাসেও স্বাভাবিকভাবে এর  প্রভাব পরিলক্ষিত হয় । "
+        android:textSize="14sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="15dp"
+        android:textColor="#263238"/>
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="বিগত চার দশক হ্রদ এলাকার  সামগ্রিক পরিবেশ জলজ  পরিবেশের পরিবর্তন, বিশেষ করে প্রধান প্রধান নদী গুলোর উপরের এলাকার পলি জমে ভরাট হয়ে যাওয়া, কোন কোন  এলাকায় পানি দূষণ, জলজ আগাছার প্রকোপ বৃদ্ধি, মৎস্যকূলের  উপর মনুষ্য সৃষ্ঠ চাপ ও প্রতিবন্ধকতা  এবং সর্বোপরি ব্যবস্থাপনার বিভিন্ন পর্যায়ে অসম্পূর্ণতা এ হ্রদের মৎস্যকূলের প্রজাতি বিন্যাসে ব্যাপক পরিবর্তনের সাথে সস্পর্কিত। বর্তমানে ৩৫টি প্রজাতির মাছ এ হ্রদ থেকে বাণিজ্যিকভাবে আহরিত হচ্ছে সারণি-১। অবশিষ্টি প্রজাতিগুলোর বাণিজ্যিক গুরুত্ব না থাকলেও জীবতাত্ত্বিক গুণাগুণ ও অন্যান্য দিক বিবেচনায় হ্রদে সামগ্রিক মৎস্যকূলের অবস্থানে এদেরও ভূমিকা রয়েছে । \n\n\n"
+        android:textSize="14sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="15dp"
+        android:textColor="#263238"/>
+
+
+</LinearLayout>
+
+</ScrollView>

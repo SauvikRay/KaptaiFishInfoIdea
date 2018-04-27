@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.biddutkarmakar.kaptaifishinfo.FishFirstList1">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" কাপ্তাই লেকের সাধারণ তথ্যাদি : "
+        android:textSize="18sp"
+        android:layout_marginTop="26dp"
+        android:gravity="center"
+        android:textColor="#000"/>
+
+
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="বৃহত্তর পার্বত্য চট্রগ্রামে অবস্থিত প্রাকৃতিক সম্পদ ও সৌন্দর্যে পরিপূর্ণ কাপ্তাই  হ্রদটি দেশের অভ্যন্তরীণউন্মুক্ত জলাশয়ের মধ্যে সর্ববৃহত এবং দক্ষিণ পূর্ব এশিয়ায়  কৃত্রিমভাবে তৈরি হ্রদসমূহের মধ্যে অন্যতম। ৬৮,৮০০ হেক্টর আয়তনের এ হ্রদটি মূলত জলবিদ্যুৎ উৎপাদনের জন্য তৈরি হলেও মৎস্য উৎপাদন, কৃষিজ উৎপাদন, জলপথে যাতায়াত, ফলজ ও বনজ দ্রব্য দুর্গম পথে পরিবহণ, জেলে, ব্যবসায়ী ও স্থানীয় জনসাধারণের  আর্থসামাজিক উন্নয়ন ও  জীবন-জীবিকা থেকে শুরু করে দেশের সামগ্রিক মৎস্য সেক্টরে কাপ্তাই হ্রদ গুরুত্বপূর্ণ অবদান রেখে আসছে। হ্রদের জন্মলংগ্ন থেকেই এর মৎস্যসম্পদ সংরক্ষণ ও ব্যবস্থাপনা বিষয়ে  গবেষণা ও উন্নয়নমূলক বিভিন্ন কার্যক্রম হাতে নেয়া হয়েছে ফলে হ্রদের মৎস্য উৎপাদন ও আয় তুলনামুলকভাবে বেড়েছে। বাংলাদেশ মৎস্য গবেষণা ইনস্টিটিউট, নদী উপকেন্দ্র, রাঙ্গামাটি, চাঁদপুরস্থ নদী কেন্দ্রের তত্ত্বাবধানের এ  হ্রদের উৎপাদনশীলতার, মৎস্য প্রজাতি বিন্যাস, মৎস্য সম্পদ সংরক্ষণ এবং উন্মুক্ত জলাশয়ে বিকল্প মৎস্য চাষের প্রযুক্তি উদ্ভাবনসহ বিভিন্ন বিষয়ের ৮০’র দশকের শেষার্ধ থেকে গবেষণা কার্যক্রম পরিচালনার মাধ্যমে আশাব্যঞ্জক ফলাফলসহ প্রযুক্তি উদ্ভাবন ও  সহায়ক তথ্যাদি সংগ্রহে অনেকাংশে সফল হয়েছে । \n\n\n"
+        android:textSize="14sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="12dp"
+        android:textColor="#263238"/>
+
+</LinearLayout>
+
+</ScrollView>

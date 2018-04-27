@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.biddutkarmakar.kaptaifishinfo.FishFirstList1">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="হ্রদের মৎস্য জীব-বৈচিত্র্য পরিবর্তনের ক্রমধারা : "
+            android:textSize="18sp"
+            android:layout_marginTop="26dp"
+            android:layout_marginLeft="12dp"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="মনুষ্য সৃষ্ট চাপ এবং প্রবাহমান পানি থেকে স্থির পানিতে পরিবর্তনের কারণে এ হ্রদ থেকে কতিপয় দেশীয় প্রজাতির মাছ যেমন বিলুপ্ত হয়ে গেছে, অন্যদিকে আবার কতিপয় বিদেশী প্রজাতির মাছ যেমনঃ সিলভার কার্প, গ্রাসকার্প, কার্পিও, রাজপুঁটি ও থাই পাঙ্গাস বিগত দুই দশকে বাংলাদেশ মৎস্য উন্নয়ন কর্পোরেশন কর্তৃক মজুদ করা হয়েছে। বিদেশী প্রজাতির মাছের মধ্যে আফ্রিকান মাগুর ও তেলাপিয়া দুর্ঘটনাক্রমে হ্রদে সংযোজিত হয়েছে লিস্ট-৪ । এ হ্রদে তেলাপিয়া ইতোমধ্যে বেশ বিস্তার লাভ করেছে এবং বিগত কয়েক বছর যাবৎ বাণিজ্যিক ভাবে আহরিত হচ্ছে । \n\n\n\n "
+            android:textSize="14sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#263238"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

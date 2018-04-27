@@ -1,0 +1,537 @@
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="524dp">"
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TableRow
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="বর্তমানে \nপ্রধান্যবিস্তারকারী\n প্রজাতিসমূহ"
+                        android:textSize="20dp"
+
+                        android:textAlignment="center"
+
+                        android:background="#44b365"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="20dp"
+                        android:text="মজুদকৃত/দূঘ্রটনাক্রমে \nসংযোজিত প্রজাতিসমূহ "
+                        android:textSize="20dp"
+
+                        android:textAlignment="center"
+
+                        android:background="#44b365"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="20dp"
+                        android:text="ইতিমধ্যে বিলুপ্ত\n প্রজাতিসমূহ"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#44b365"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="20dp"
+                        android:text="বিলুপ্তপ্রায় \nপ্রজাতিসমূহ "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:background="#44b365"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="20dp"
+                        android:text="ক্রমহ্রাসমান\n প্রজাতিসমূহ "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#44b365"/>
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="কেচকী  "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="গ্রার্স কার্প   "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="সীলন   "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="দেশী মহাশোল  "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="রুই  "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="1dp"
+                        android:text="চাপিলা "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_marginLeft="1dp"
+                        android:text="সিলভার কার্প "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_marginLeft="1dp"
+                        android:text="দেশীয় সরপুটি "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_marginLeft="1dp"
+                        android:text="মধু পাব্দা "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_marginLeft="1dp"
+                        android:text="কাতলা "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#ffff"/>
+
+
+
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="কাটা মাইল্যা "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#de9f93"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="কার্পিও "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#de9f93"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="ঘাউরা"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#de9f93"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="পোয়া "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#de9f93"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="মৃগেল "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#de9f93"
+                        android:background="#ffff"/>
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"></TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="তেলাপিয়া "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#0000"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="রাজপুটি"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#0000"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="বাঘা আইড় "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#0000"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="ফাইস্যা "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#0000"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="বাচা "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+
+                        android:background="#0000"/>
+
+
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="কালিবাউস"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#0ff"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="তেলাপিয়া"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#0ff"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="মোহনী বাটা"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#0ff"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="তেলেগুলশা"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#0ff"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="পাতি পাব্দা"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#0ff"
+                        android:background="#ffff"/>
+
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="আইড়"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="মোজাম্বিকা তেলাপিয়া"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="দেশী পাঙ্গাস"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="সাদা ঘনিয়া"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="বড় চিতল"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="বাটা"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="গিফট তেলাপিয়া"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="ফলি "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="মহাশোল  "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="দেশী মলা "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="আফ্রিকান মাগুর "
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:layout_column="1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="বিগাহেড কার্প"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+
+
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:layout_column="1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:text="বিগাহেড কার্প"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:textColor="#e6666e"
+                        android:background="#ffff"/>
+                    />
+
+                </TableRow>
+            </TableLayout>
+        </HorizontalScrollView>
+    </ScrollView>
+
+</LinearLayout>

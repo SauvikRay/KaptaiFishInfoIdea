@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.biddutkarmakar.kaptaifishinfo.FishFirstList1">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="সাধারন তথ্যাদি : "
+            android:textSize="19sp"
+            android:layout_marginTop="26dp"
+            android:gravity="center"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="১. পুকুর-১২৪৩ টি (৩৩৩.৮৭ হেঃ) \n\n২. উন্নয়নকৃত ক্রিক-৭০৯ টি (৬১২.২৮ হেঃ)\n\n৩.  পেনে মাছ চাষ-৩৩ টি (৫২ হেঃ) \n\n৪.  ধান ক্ষেতে মাছ চাষ-১৬ টি  (১৮.৫১ হেঃ) \n\n৫.  সমাজ খিত্তিক মাছ চাষ-২৮ টি (৫.৫ হেঃ) \n\n৬.  নদী-০৫ টি (৩৯২৫ হেঃ)\n\n৭.  কাপ্তাই লেক-০১ টি (৬৮০০০ হেঃ)\n\n৮.  প্লাবন ভূমি-০১ টি (৫১০ হেঃ)\n\n\n\n"
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#263238"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <TextView
+                    android:id="@+id/text1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:text="বিভিন্ন্ এককে রূপান্তর সারণি"
+                    android:textSize="25dp"
+                    android:textAlignment="center"
+                    android:textColor="#292cc4"
+                    android:background="#ffff"
+                    />
+                <TextView
+                    android:id="@+id/text2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:text="
+১ বর্গ মিটার    =   ১০.৭৬ বর্গ ফুট\n
+\n১ ঘনফুট    =   ০.০২৮৩ ঘনমিটার    =  ২৮.৩ লিটারপানি\n
+\n১ ঘনমিটার    =     ১.৩০ ঘনগজ        =  ৩৫.৩১ ঘনফুট\n
+\n১ হেক্টর   =      ২.৪৭ একর     =  ১০,০০০ বর্গ মিটার\n
+\n১ একর          =      ১০০ শতাংশ        =  ০.৪৫০ হেক্টর\n
+\n১ বিঘা        =      ০.৩৩ একর     =  ৩৩ শতাংশ\n
+\n১ শতাংশ    =      ৪৩৫.৬ বর্গ ফুট   =  ৪০.৪৮ বর্গ মিটার\n
+\n১ গ্যালনপানি  =    ৮.৩৪ পাউন্ড     =  ৩.৭৮৫ লিটার\n
+\n১ ঘনফুটপানি    =      ৭.৫ গ্যালন       =  ৬২.৪ পাউন্ড\n
+\n১ লিটারপানি   =    ১ কিলোগ্রাম      =  ২.২ পাউন্ড\n
+\n১ সের         =      ০.৯৩ কিলোগ্রাম    =  ২.০৫ পাউন্ড\n
+\n১ কিলোগ্রাম    =      ১.০৭ সের     =  ২.২ পাউন্ড\n
+\n১ মণ      =      ৪০ সের           =  ৩৭.৩২ কিলোগ্রাম\n
+\n১ কুইন্টাল     =      ১০০ কিলোগ্রাম     =  ২.৬৮ মণ\n
+\n১ মেট্রিকটন    =      ১০০০ কিলোগ্রাম    =  ২৬.৮ মণ\n
+\n১ইঞ্চি         =      ২.৫৪ সেমে.       =  ২৫.৪ মিমি.\n
+\n১ ফুট         =      ১২ ইঞ্চি     =  ০.৩ মিটার\n
+\n১ মিটার    =      ৩.২৮ ফুট     =  ১.০৯৪ গজ\n
+\n১ কিলোমিটার    =   ১.৬২ কিলোমিটার \n
+"
+                    android:textSize="20dp"
+                    android:textColor="#FF0D0C0C"
+                    android:background="#ffff"/>
+            </TableLayout>
+
+        </HorizontalScrollView>
+
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Managment5">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" হ্রদের মাছের উৎপাদন বৃদ্ধির জন্য সুপারিশসমূহ : "
+        android:textSize="18sp"
+        android:layout_marginTop="25dp"
+        android:gravity="center"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="১। খাঁচায় মনোসেক্স তেলাপিয়াসহ উচ্চ মূল্যমান সম্পন্ন মাছ (পাবদা, গুলশা) ও ক্রীকে কার্প জাতীয় মাছ চাষের এর মাধ্যমে হ্রদ বন্ধকালীন সময়ে জেলেদের বিকল্প কর্মসংস্থানের সুযোগ সৃৃষ্টি করা।"
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="২। প্রজনন মৌসুমে বিশেষ করে মে মাসের শুরু থেকে পরবর্তী ৪ মাস হ্রদে মাছ শিকার বন্ধ করা। "
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"/>
+
+
+    <TextView
+        android:id="@+id/text4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="৩। জাঁক ব্যবহার করে মৎস্য আহরণ বন্ধ করা।"
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/text5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="৪। পলি ভরাট হয়ে যাওয়া প্রজনন স্থল ও প্রজনন অভিপ্রায়ন পথ সমূহ পুণঃখনন/ড্রেজিং করতে হবে।"
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/text6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="৫। রুই জাতীয় মাছের পোনা মজুদের পূর্বে নার্সারীতে প্রতিপালন করা ।\n\n"
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="হ্রদের মাছ উৎপাদনের লেখচিত্র "
+        android:textSize="17sp"
+        android:textColor="#000"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="60dp"/>
+
+
+
+</LinearLayout>
+
+</ScrollView>
